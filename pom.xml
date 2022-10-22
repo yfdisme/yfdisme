@@ -13,6 +13,7 @@
         <module>yfd-admin</module>
         <module>yfd-blog</module>
         <module>SpringSecurityQuickStart</module>
+        <module>yfd-utils</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
